@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: climate\n"
+"POT-Creation-Date: 2013-02-08 11:07+0100\n"
+"PO-Revision-Date: 2013-02-08 11:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: climate-on-crete.php:94 climate-on-crete.php:164
+msgid "January"
+msgstr "Jänner"
+
+#: climate-on-crete.php:95 climate-on-crete.php:165
+msgid "February"
+msgstr "Februar"
+
+#: climate-on-crete.php:96 climate-on-crete.php:166
+msgid "March"
+msgstr "März"
+
+#: climate-on-crete.php:97 climate-on-crete.php:167
+msgid "April"
+msgstr "April"
+
+#: climate-on-crete.php:98 climate-on-crete.php:168
+msgid "May"
+msgstr "Mai"
+
+#: climate-on-crete.php:99 climate-on-crete.php:169
+msgid "June"
+msgstr "Juni"
+
+#: climate-on-crete.php:100 climate-on-crete.php:170
+msgid "July"
+msgstr "Juli"
+
+#: climate-on-crete.php:101 climate-on-crete.php:171
+msgid "August"
+msgstr "August"
+
+#: climate-on-crete.php:102 climate-on-crete.php:172
+msgid "September"
+msgstr "September"
+
+#: climate-on-crete.php:103 climate-on-crete.php:173
+msgid "October"
+msgstr "Oktober"
+
+#: climate-on-crete.php:104 climate-on-crete.php:174
+msgid "November"
+msgstr "November"
+
+#: climate-on-crete.php:105 climate-on-crete.php:175
+msgid "December"
+msgstr "Dezember"
+
+#: climate-on-crete.php:108 climate-on-crete.php:178
+msgid "Rethymno"
+msgstr "Rethymno"
+
+#: climate-on-crete.php:109 climate-on-crete.php:179
+msgid "Chania"
+msgstr "Chania"
+
+#: climate-on-crete.php:110 climate-on-crete.php:180
+msgid "Agia Galini"
+msgstr "Agia Galini"
+
+#: climate-on-crete.php:111 climate-on-crete.php:181
+msgid "Matala"
+msgstr "Matala"
+
+#: climate-on-crete.php:112 climate-on-crete.php:182
+msgid "Heraklion"
+msgstr "Heraklion"
+
+#: climate-on-crete.php:113 climate-on-crete.php:183
+msgid "Agios Nikolaos"
+msgstr "Agios Nikolaos"
+
+#: climate-on-crete.php:114 climate-on-crete.php:184
+msgid "Malia"
+msgstr "Malia"
+
+#: climate-on-crete.php:115 climate-on-crete.php:185
+msgid "Chora Sfakion"
+msgstr "Chora Sfakion"
+
+#: climate-on-crete.php:116 climate-on-crete.php:186
+msgid "Sitia"
+msgstr "Sitia"
+
+#: climate-on-crete.php:117 climate-on-crete.php:187
+msgid "Chersonissos"
+msgstr "Chersonissos"
+
+#: climate-on-crete.php:118 climate-on-crete.php:188
+msgid "Agia Pelagia"
+msgstr "Agia Pelagia"
+
+#: climate-on-crete.php:119 climate-on-crete.php:189
+msgid "Agia Paleochora"
+msgstr "Agia Paleochora"
+
+#: climate-on-crete.php:120 climate-on-crete.php:190
+msgid "Ierapetra"
+msgstr "Ierapetra"
+
+#: climate-on-crete.php:121 climate-on-crete.php:191
+msgid "Georgioupolis"
+msgstr "Georgioupolis"
+
+#: climate-on-crete.php:122 climate-on-crete.php:192
+msgid "Mires"
+msgstr "Mires"
+
+#: climate-on-crete.php:123 climate-on-crete.php:193
+msgid "Episkopi"
+msgstr "Episkopi"
+
+#: climate-on-crete.php:128 climate-on-crete.php:198
+msgid "max."
+msgstr "Max. Temperatur in "
+
+#: climate-on-crete.php:129 climate-on-crete.php:199
+msgid "min."
+msgstr "Min. Temperatur in "
+
+#: climate-on-crete.php:130 climate-on-crete.php:200
+msgid "water "
+msgstr "Wassertemperatur in "
+
+#: climate-on-crete.php:131 climate-on-crete.php:201
+msgid "hours / d"
+msgstr "Sonnenstunden / Tag"
+
+#: climate-on-crete.php:132 climate-on-crete.php:202
+msgid "days / m"
+msgstr "Regentage / Monat"
+
+#: climate-on-crete.php:238
+msgid "Title"
+msgstr "Titel"
+
+#: climate-on-crete.php:241 climate-on-crete.php:250 climate-on-crete.php:259
+msgid "Celsius"
+msgstr "Celsius"
+
+#: climate-on-crete.php:245 climate-on-crete.php:254 climate-on-crete.php:263
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+#: climate-on-crete.php:269 climate-on-crete.php:271
+msgid "Hide Link?"
+msgstr "Link ausblenden"
+
+#~ msgid "Rethymnon"
+#~ msgstr "Rethymnon"

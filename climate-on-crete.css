@@ -1,0 +1,186 @@
+@charset "utf-8";
+/* CSS Document */
+
+#climate {
+	min-width:200px;
+	max-width:250px;
+	border:1px solid #CCC;
+	padding:15px;
+	font-family:Arial, Helvetica, sans-serif !important;
+}
+
+#climate_short {
+	min-width:200px;
+	max-width:300px;
+	border:1px solid #CCC;
+	padding:15px;
+	/*float:right;*/
+	/*margin-left:15px;*/
+	font-family:Arial, Helvetica, sans-serif !important;
+}
+
+#climate_output {
+	margin-top:10px;
+}
+
+#form_crete {
+	margin-bottom:15px;
+}
+
+.month, .city {
+	margin:0px;
+	-webkit-appearance: none !important;
+	-moz-border-radius: 0px !important;
+	-webkit-border-radius: 0px !important;
+	border-radius: 0px !important;
+	background-image:url(images/select.png) !important;
+	background-position: center right !important;
+	background-repeat: no-repeat !important;
+	color:#333 !important;
+	border:1px solid #ccc !important;
+	outline:none !important;
+	padding:3px !important;
+	min-width:inherit !important;
+}
+
+.month {
+	float:left;
+	font-size:11px;
+	width:79px !important;
+}
+
+.city {
+	float:left;
+	font-size:11px;
+	margin-left:5px;
+	width:106px !important;
+}
+
+.month_short, .city_short {
+	margin:0px;
+	-webkit-appearance: none !important;
+	-moz-border-radius: 0px !important;
+	-webkit-border-radius: 0px !important;
+	border-radius: 0px !important;
+	background-image:url(images/select.png) !important;
+	background-position: center right !important;
+	background-repeat: no-repeat !important;
+	color:#333 !important;
+	border:1px solid #ccc !important;
+	outline:none !important;
+	padding:6px !important;
+	min-width:inherit !important;
+}
+
+.month_short {
+	float:left !important;
+	font-size:13px !important;
+	width:110px !important;
+}
+
+.city_short {
+	float:left !important;;
+	font-size:13px !important;;
+	margin-left:10px !important;;
+	width:142px !important;
+}
+
+#climate .label {
+	display:block;
+	max-width:89px;
+	float:left;
+	min-width:80px;
+	font-size:11px;
+	line-height:normal;
+	padding-top:15px;
+}
+
+#climate_short .label {
+	display:block;
+	max-width:140px;
+	float:left;
+	min-width:80px;
+	font-size:12px;
+	line-height:normal;
+	padding-top:15px;
+}
+
+#climate .value {
+	display:block;
+	text-align:right;
+	float:right;
+	max-width:60px;
+	min-width:40px;
+	margin-right:20px;
+    line-height: normal;
+    padding-top: 15px;
+}
+
+#climate_short .value {
+	display:block;
+	text-align:right;
+	float:right;
+	max-width:60px;
+	min-width:30px;
+	margin-right:20px;
+	line-height:normal;
+	padding-top:15px;
+}
+
+
+#max, #min, #wtp, #spt {
+	min-width:120px;
+	/*max-width:200px;*/
+	height:40px;
+	/*padding-left:50px;*/
+	line-height:55px;
+	margin-bottom:10px;
+	border-bottom:1px solid #ccc;
+	padding-bottom:15px;
+	font-size:12px;
+}
+
+#rpm {
+	min-width:120px;
+	/*max-width:200px;*/
+	height:40px;
+	/*padding-left:50px;*/
+	line-height:55px;
+	margin-bottom:10px;
+	font-size:12px;
+}
+
+/*#max {
+	background:url(images/max-temperatur.png) no-repeat left center;
+}
+
+#min {
+	background:url(images/min-temperatur.png) no-repeat left center;
+}
+
+#wtp {
+	background:url(images/wassertemperatur.png) no-repeat left center;
+}
+
+#spt {
+	background:url(images/sonnenstunden.png) no-repeat left center;
+}
+
+#rpm {
+	background:url(images/regentage.png) no-repeat left center;
+}*/
+
+.clear {
+	clear:both;
+}
+
+#link {
+	margin-top:10px !important;
+}
+
+#link a {
+	font-size:10px !important;
+	color:#CCC !important;
+}
+
+
